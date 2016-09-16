@@ -1,0 +1,36 @@
+.align-center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile,
+.profile-big {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-top: -7px;
+}
+
+.profile-big {
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+}
+
+.profile-title {
+    width: 100%;
+}
+
+img.stop {
+    width: 300px;
+    height: auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
